@@ -1,12 +1,32 @@
 <div align="center">
 <h1 align="center">Hola, soy Sergio Vazquez 👋</h1>
 </div>
-<!-- Imagen -->
-<h2><strong>🐞Sobre Mi</strong></h2>
+# 👋 Sergio [Apellido]
 
-<!-- Sobre mi -->
+**Developer en transición | Construcción → Tech**
 
+Actualmente construyendo software que la gente realmente usa.
 
-<h2><strong>📚Mis Skills</strong></h2>
+## 🚀 Lo que hago
+- Desarrollo fullstack con **Next.js, TypeScript y Supabase**
+- Sistemas en **producción** con usuarios reales
+- Resuelvo problemas reales con código limpio
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+## 💼 Proyecto destacado
+**Sistema de Stock & Ventas** - En uso diario por comercio real
+- Gestión de inventario con alertas de stock bajo
+- Sistema de ventas con carrito y analytics en tiempo real
+- Unidades variables (kg/unidades) según categoría de producto
+- Auth con roles (admin/empleado)
+
+**Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Vercel
+
+## 🎯 Objetivo 2026
+Conseguir mi primer rol como developer para dedicarme 100% a escribir código que resuelva problemas.
+
+## 📫 Contacto
+- LinkedIn: [tu perfil]
+- Email: [tu email]
+
+---
+💡 *De obra a código. De hacer cosas con las manos a hacerlas con TypeScript.
